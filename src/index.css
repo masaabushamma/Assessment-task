@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  font-family: 'Mulish';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@font-face {
+  font-family: "Mulish";
+  src: local("Mulish-VariableFont_wght"),
+    url("./assets/fonts/Mulish-VariableFont_wght.ttf") format("truetype");
+}
